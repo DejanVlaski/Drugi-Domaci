@@ -1,2 +1,2 @@
-# Dugi-Domaci
+# Drugi-Domaci
 Kod sa drugog domaceg zadatka
